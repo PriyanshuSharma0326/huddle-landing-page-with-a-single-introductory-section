@@ -14,4 +14,4 @@ Thanks for checking out this front-end coding challenge picked up from Frontend 
 
 Deploy this project on Github Pages / Vercel / Netlify.
 
-**Live URL:** https://priyanshusharma0326.github.io/huddle-landing-page-with-a-single-introductory-section/
+**Live URL:** https://eclectic-horse-33e41b.netlify.app/
